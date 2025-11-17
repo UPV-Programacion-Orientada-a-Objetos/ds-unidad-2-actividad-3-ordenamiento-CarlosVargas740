@@ -1,0 +1,3 @@
+/home/charly/Documentos/Programacion Estructurada/e-sort/build/CMakeFiles/esort.dir
+/home/charly/Documentos/Programacion Estructurada/e-sort/build/CMakeFiles/edit_cache.dir
+/home/charly/Documentos/Programacion Estructurada/e-sort/build/CMakeFiles/rebuild_cache.dir
